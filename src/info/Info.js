@@ -121,7 +121,7 @@ export const info = {
         {
             title: "Graphic Design Portfolio",
             live: "https://drive.google.com/drive/folders/1bT35O3JOfwn2Y6SSYN-T7PBXpn8aNC7a?usp=sharing",
-            source: "https://github.com/paytonjewell",
+            source: "https://github.com/Soundy09/React_Portfolio",
             image: mock5
         }
     ]
