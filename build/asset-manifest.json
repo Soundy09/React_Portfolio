@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69a22803.css",
+    "main.js": "/static/js/main.d9fde7b1.js",
+    "static/media/mock5.png": "/static/media/mock5.198ca992ca955a43babb.png",
+    "static/media/mock2.png": "/static/media/mock2.aa98ac7823e1de4179aa.png",
+    "static/media/Lance_Poster.png": "/static/media/Lance_Poster.1006e6bf4063e5164854.png",
+    "static/media/mock1.png": "/static/media/mock1.e9a407b4cfc177586261.png",
+    "static/media/mock3.png": "/static/media/mock3.2423b3f7716a57ab2cf1.png",
+    "static/media/mock4.png": "/static/media/mock4.aa99f75e131b587ffa48.png",
+    "index.html": "/index.html",
+    "main.69a22803.css.map": "/static/css/main.69a22803.css.map",
+    "main.d9fde7b1.js.map": "/static/js/main.d9fde7b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69a22803.css",
+    "static/js/main.d9fde7b1.js"
+  ]
+}
