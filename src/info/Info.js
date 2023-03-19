@@ -98,9 +98,9 @@ export const info = {
             image: mock3
         },
         {
-            title: "React To Do",
-            live: "https://incandescent-centaur-ad0724.netlify.app/",
-            source: "https://github.com/Soundy09/To_Do--React",
+            title: "Rosco's Diner",
+            live: "https://jocular-smakager-76cb33.netlify.app",
+            source: "https://github.com/Soundy09/Food_App",
             image: mock4
         },
         {
