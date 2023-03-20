@@ -5,8 +5,6 @@ import mock2 from "../img/mock2.png";
 import mock3 from "../img/mock3.png";
 import mock4 from "../img/mock4.png";
 import mock5 from "../img/mock5.png";
-// import gig_1 from "../img/gig_1.jpg";
-import Design from "../components/DesignLayout/Design";
 
 
 
@@ -84,8 +82,6 @@ export const info = {
         {
             title: "Gig Project",
             live: "https://www.figma.com/proto/Kdb2Ks3bq49bPCrdUb044a/Gig-Prototyping?node-id=1296%3A20723&scaling=scale-down&page-id=1296%3A20705&starting-point-node-id=1296%3A20723&show-proto-sidebar=1", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            // path: '/Design' ,
-            // link:{Design},
            source:"https://drive.google.com/drive/folders/11HnzKxNsL4_PgsMZG6Sx7T6JRY1SjnNc", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1,
             subTitle: "Design Process"
