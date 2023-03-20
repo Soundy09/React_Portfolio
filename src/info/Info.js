@@ -1,4 +1,3 @@
-import { Route } from "react-router-dom";
 import self from "../img/Lance_Poster.png";
 import mock1 from "../img/mock1.png";
 import mock2 from "../img/mock2.png";
