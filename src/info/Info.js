@@ -5,7 +5,7 @@ import mock2 from "../img/mock2.png";
 import mock3 from "../img/mock3.png";
 import mock4 from "../img/mock4.png";
 import mock5 from "../img/mock5.png";
-import gig_1 from "../img/gig_1.jpg";
+// import gig_1 from "../img/gig_1.jpg";
 import Design from "../components/DesignLayout/Design";
 
 
@@ -117,13 +117,6 @@ export const info = {
             source: "https://github.com/Soundy09/React_Portfolio",
             image: mock5,
             subTitle: "Source Code"
-        }
-    ],
-    Gig: [
-        {
-            title: "Gig",
-            Image: gig_1,
-
         }
     ]
 }
