@@ -81,7 +81,7 @@ export const info = {
         {
             title: "Gig Project",
             live: "https://www.figma.com/proto/Kdb2Ks3bq49bPCrdUb044a/Gig-Prototyping?node-id=1296%3A20723&scaling=scale-down&page-id=1296%3A20705&starting-point-node-id=1296%3A20723&show-proto-sidebar=1", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-           source:"https://drive.google.com/drive/folders/11HnzKxNsL4_PgsMZG6Sx7T6JRY1SjnNc", // this should be a link to the **repository** of the project, where the code is hosted.
+           source:"https://friendly-sundae-0285d3.netlify.app/#", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1,
             subTitle: "Design Process"
         },
